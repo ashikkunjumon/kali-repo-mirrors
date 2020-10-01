@@ -20,4 +20,4 @@
 
 # Fastest-Mirror
 
-   http://mirrors.ocf.berkeley.edu/kali/README (us, prio 100)
+   http://mirrors.ocf.berkeley.edu/kali/
