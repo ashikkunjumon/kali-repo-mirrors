@@ -17,4 +17,7 @@
     http://wlglam.fsmg.org.nz/kali/README (nz, prio 100)
     http://mirror.anquan.cl/kali/README (cl, prio 100)
     http://mirror.pwnieexpress.com/kali/README (us, prio 20)
-    http://mirrors.ocf.berkeley.edu/kali/README (us, prio 100)
+
+# Fastest-Mirror
+
+   http://mirrors.ocf.berkeley.edu/kali/README (us, prio 100)
